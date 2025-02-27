@@ -11,7 +11,7 @@
 
 ## Description
 
-This project implements a Java application that can be utilized in a restaraunt to record/search customer orders & their correlated menu items. The program makes use of Node Classes to form a Binary Tree that can return values such as the contents of preorders/orders, the contents of menu items, the size of the tree, the price total of items, taxes, tips, and many more.
+This project implements a Java application that can be utilized in a restaraunt to record/search customer orders & their correlated menu items. The program makes use of Node Classes to form a Binary Tree that can return values such as the contents of Menu Items in preorder/inorder/postorder, the size of the tree, the price total of items, taxes, tips, and many more.
 
 ## Classes & Features
 
@@ -52,4 +52,5 @@ To get started with the project, follow these steps:
 4. **Run the Application**:
  Use the included instructions in the user-guide.md to run and interact with the application.
 
+## Example Images
 
