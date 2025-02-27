@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Classes & Features](classes---features)
+2. [Classes/Features](classes/features)
    - [MenuItem](#1-class-menuitem)
    - [BSTNode](#2-class-bstnode)
    - [Order](#3-class-order)
@@ -13,7 +13,7 @@
 
 This project implements a Java application that can be utilized in a restaraunt to record/search customer orders & their correlated menu items. The program makes use of Node Classes to form a Binary Tree that can return values such as the contents of Menu Items in preorder/inorder/postorder, the size of the tree, the price total of items, taxes, tips, and many more.
 
-## Classes & Features
+## Classes/Features
 
 ### 1. Class MenuItem
 - **Functionality**: A MenuItem represents one item ordered from a menu. Contains data such as name, price, and quantity for a food item. Additionally, this class has the ability to return a string contatining the amount of menu items purchased. It can also compare to other Menu items depending if they both contain the same name.
