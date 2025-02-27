@@ -54,3 +54,7 @@ To get started with the project, follow these steps:
 
 ## Example Images
 
+![Preorder](https://github.com/Ali-Ouakhchachi/BinarySearchTreeApplication/blob/76c9dd4ef72a8b6301e843a958551faf17bb5c40/preorder_example.PNG)
+![Inorder](https://github.com/Ali-Ouakhchachi/BinarySearchTreeApplication/blob/76c9dd4ef72a8b6301e843a958551faf17bb5c40/inorder_example.PNG)
+![Postorder](https://github.com/Ali-Ouakhchachi/BinarySearchTreeApplication/blob/76c9dd4ef72a8b6301e843a958551faf17bb5c40/postorder_example.PNG)
+![StringTable](https://github.com/Ali-Ouakhchachi/BinarySearchTreeApplication/blob/76c9dd4ef72a8b6301e843a958551faf17bb5c40/table_example.PNG)
