@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Classes/Features](#classes-features)
+2. [Classes/Features](#classes--features)
    - [MenuItem](#1-class-menuitem)
    - [BSTNode](#2-class-bstnode)
    - [Order](#3-class-order)
